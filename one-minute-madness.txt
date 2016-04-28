@@ -1,0 +1,16 @@
+Casper, Clearhaus.com, stand 16 (niveau 0)
+
+* Køb online; kortnummer mv.
+  -> din browser
+  -> PSP (betalingsvinduet)
+  -> indløser
+  -> Visa/MasterCard
+  -> din bank
+
+* Start-up: 7 udviklere, 0 mellemled.
+
+* Sikkerhed, skalerbarhed, automatiser alt.
+
+* Ruby, JS, Docker, Debian, Github, AWS, ... vælg selv.
+
+* Du koder, du deployer, du drifter, du debugger.
